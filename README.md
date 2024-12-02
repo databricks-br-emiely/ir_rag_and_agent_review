@@ -16,7 +16,7 @@ Neste tutorial, você aprenderá como construir seu próprio Assistente de Chatb
 
 2. Após preencher essas variáveis, executar os notebooks abaixo:
 - 01.Rag Chatbot IR - VS
-- 02. RAG Chatbot IR with Agent
+- 02.RAG Chatbot IR with Agent
 
 
 
